@@ -18,8 +18,8 @@ Each setting is tested three times
 
 Running each phase took 13hours on my i5 7th Gen laptop
 
-Go through each Phase
-<a href="https://github.com/adityauser/Quest-RL/tree/master/Phase1">Phase 1</a>
+Go through each Phase : <br>
+<a href="https://github.com/adityauser/Quest-RL/tree/master/Phase1">Phase 1</a><br>
 
 
 
