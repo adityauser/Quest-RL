@@ -1,0 +1,9 @@
+					
+							
+										The Report
+																				Date:21-May-2018
+Phase 1
+
+Dear Agent,
+	The folder contains the models and the code. Yup I bugged it with variable names.
+Their are some others bug too such as I used the prev_model to predict the reward, I updated the prev_model for ever time step, but I think it should be updated episodiclly.

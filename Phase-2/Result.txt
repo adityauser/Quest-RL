@@ -1,0 +1,739 @@
+﻿Gamma :  0.8
+     Epsilon_Decay :  0.5
+            Trial :  1
+            Time :  128.6433756351471
+            Vally :  [811, 821, 863, 883, 884, 894, 945, 950, 958]
+            Avg_evaluation :  106.6
+Done for :1/135
+            Trial :  2
+            Time :  326.5103509426117
+            Vally :  [249, 254, 255, 257, 466, 528, 610, 616, 657, 678]
+            Avg_evaluation :  345.63
+Done for :2/135
+            Trial :  3
+            Time :  91.73240685462952
+            Vally :  []
+            Avg_evaluation :  57.56
+Done for :3/135
+     Epsilon_Decay :  0.7
+            Trial :  1
+            Time :  183.167156457901
+            Vally :  [287, 299, 316, 321, 329, 331, 344, 367, 368, 371]
+            Avg_evaluation :  465.11
+Done for :4/135
+            Trial :  2
+            Time :  80.87374973297119
+            Vally :  [970, 974, 980, 997, 998]
+            Avg_evaluation :  36.23
+Done for :5/135
+            Trial :  3
+            Time :  389.20196175575256
+            Vally :  [897, 910, 936, 975]
+            Avg_evaluation :  306.27
+Done for :6/135
+     Epsilon_Decay :  0.8
+            Trial :  1
+            Time :  127.8322160243988
+            Vally :  [922, 929, 935]
+            Avg_evaluation :  43.18
+Done for :7/135
+            Trial :  2
+            Time :  140.70309281349182
+            Vally :  [520, 566, 571, 572, 581, 611, 639, 665, 668, 677]
+            Avg_evaluation :  344.07
+Done for :8/135
+            Trial :  3
+            Time :  64.06511354446411
+            Vally :  []
+            Avg_evaluation :  8.4
+Done for :9/135
+     Epsilon_Decay :  0.9
+            Trial :  1
+            Time :  62.4332172870636
+            Vally :  []
+            Avg_evaluation :  8.2
+Done for :10/135
+            Trial :  2
+            Time :  66.00798988342285
+            Vally :  []
+            Avg_evaluation :  8.28
+Done for :11/135
+            Trial :  3
+            Time :  70.97839522361755
+            Vally :  []
+            Avg_evaluation :  115.78
+Done for :12/135
+     Epsilon_Decay :  0.95
+            Trial :  1
+            Time :  126.10430765151978
+            Vally :  [310, 333, 335, 337, 339, 341, 366, 376, 381, 401]
+            Avg_evaluation :  389.74
+Done for :13/135
+            Trial :  2
+            Time :  180.5484824180603
+            Vally :  [466, 568, 609, 628, 736, 737, 738, 743, 756, 762]
+            Avg_evaluation :  488.14
+Done for :14/135
+            Trial :  3
+            Time :  126.80169248580933
+            Vally :  [293, 306, 307, 331, 332, 408, 414, 417, 420, 422]
+            Avg_evaluation :  267.46
+Done for :15/135
+     Epsilon_Decay :  0.98
+            Trial :  1
+            Time :  282.64569425582886
+            Vally :  [212, 214, 463, 465, 472, 473, 484, 500, 536, 542]
+            Avg_evaluation :  376.02
+Done for :16/135
+            Trial :  2
+            Time :  120.5274817943573
+            Vally :  [217, 245, 292, 296, 303, 318, 320, 328, 329, 340]
+            Avg_evaluation :  484.96
+Done for :17/135
+            Trial :  3
+            Time :  139.7038049697876
+            Vally :  [225, 239, 250, 251, 275, 297, 331, 334, 345, 347]
+            Avg_evaluation :  189.65
+Done for :18/135
+     Epsilon_Decay :  0.985
+            Trial :  1
+            Time :  484.9081633090973
+            Vally :  [596, 606, 692, 720, 733, 740, 789, 794, 839, 898]
+            Avg_evaluation :  295.87
+Done for :19/135
+            Trial :  2
+            Time :  128.2676124572754
+            Vally :  [203, 206, 319, 328, 330, 334, 337, 340, 341, 342]
+            Avg_evaluation :  499.0
+Done for :20/135
+            Trial :  3
+            Time :  169.62156414985657
+            Vally :  [249, 262, 269, 275, 331, 347, 359, 376, 379, 380]
+            Avg_evaluation :  498.38
+Done for :21/135
+     Epsilon_Decay :  0.99
+            Trial :  1
+            Time :  78.24981331825256
+            Vally :  [206, 207, 208, 210, 211, 212, 213, 219, 221, 222]
+            Avg_evaluation :  367.65
+Done for :22/135
+            Trial :  2
+            Time :  324.64625906944275
+            Vally :  [234, 368, 380, 382, 383, 417, 419, 450, 455, 571]
+            Avg_evaluation :  344.71
+Done for :23/135
+            Trial :  3
+            Time :  210.15541172027588
+            Vally :  [332, 339, 341, 343, 358, 361, 364, 416, 454, 459]
+            Avg_evaluation :  376.94
+Done for :24/135
+     Epsilon_Decay :  0.995
+            Trial :  1
+            Time :  342.75079321861267
+            Vally :  [335, 357, 490, 507, 573, 602, 607, 626, 639, 657]
+            Avg_evaluation :  497.65
+Done for :25/135
+            Trial :  2
+            Time :  183.62391781806946
+            Vally :  [314, 330, 345, 381, 384, 386, 388, 389, 390, 391]
+            Avg_evaluation :  499.0
+Done for :26/135
+            Trial :  3
+            Time :  388.63814091682434
+            Vally :  [404, 437, 512, 515, 568, 592, 615, 624, 631, 633]
+            Avg_evaluation :  465.32
+Done for :27/135
+Done for gamma :  0.8
+
+Gamma :  0.85
+     Epsilon_Decay :  0.5
+
+            Trial :  1
+            Time :  250.06890296936035
+            Vally :  [631, 927, 945, 951, 954, 989, 991]
+            Avg_evaluation :  268.71
+Done for :28/135
+            Trial :  2
+            Time :  459.9810411930084
+            Vally :  [500, 656, 666, 668, 672, 735, 766, 920, 949, 958]
+            Avg_evaluation :  372.11
+Done for :29/135
+            Trial :  3
+            Time :  193.34430623054504
+            Vally :  [139, 250, 251, 271, 276, 278, 291, 293, 297, 314]
+            Avg_evaluation :  499.0
+Done for :30/135
+     Epsilon_Decay :  0.7
+            Trial :  1
+            Time :  74.41242456436157
+            Vally :  []
+            Avg_evaluation :  8.25
+Done for :31/135
+            Trial :  2
+            Time :  113.38109278678894
+            Vally :  []
+            Avg_evaluation :  110.68
+Done for :32/135
+            Trial :  3
+            Time :  188.9111397266388
+            Vally :  [210, 231, 233, 259, 262, 284, 301, 311, 314, 316]
+            Avg_evaluation :  459.28
+Done for :33/135
+     Epsilon_Decay :  0.8
+            Trial :  1
+            Time :  74.96021056175232
+            Vally :  []
+            Avg_evaluation :  8.29
+Done for :34/135
+            Trial :  2
+            Time :  79.12436938285828
+            Vally :  []
+            Avg_evaluation :  8.39
+Done for :35/135
+            Trial :  3
+            Time :  151.50524497032166
+            Vally :  []
+            Avg_evaluation :  102.67
+Done for :36/135
+     Epsilon_Decay :  0.9
+            Trial :  1
+            Time :  333.4065957069397
+            Vally :  [699, 842, 873, 907, 976]
+            Avg_evaluation :  126.13
+Done for :37/135
+            Trial :  2
+            Time :  225.86124801635742
+            Vally :  [327, 333, 339, 349, 350, 369, 377, 379, 383, 410]
+            Avg_evaluation :  444.44
+Done for :38/135
+            Trial :  3
+            Time :  79.582195520401
+            Vally :  []
+            Avg_evaluation :  8.41
+Done for :39/135
+     Epsilon_Decay :  0.95
+            Trial :  1
+            Time :  121.1803662776947
+            Vally :  [135, 261, 266, 268, 277, 279, 284, 285, 292, 293]
+            Avg_evaluation :  352.95
+Done for :40/135
+            Trial :  2
+            Time :  252.03183817863464
+            Vally :  [733, 746, 747, 748, 749, 750, 751, 752, 753, 754]
+            Avg_evaluation :  499.0
+Done for :41/135
+            Trial :  3
+            Time :  142.88597655296326
+            Vally :  [357, 389, 390, 405, 407, 412, 416, 422, 423, 424]
+            Avg_evaluation :  499.0
+Done for :42/135
+     Epsilon_Decay :  0.98
+            Trial :  1
+            Time :  110.91507768630981
+            Vally :  [202, 258, 259, 262, 264, 266, 267, 268, 269, 270]
+            Avg_evaluation :  458.2
+Done for :43/135
+            Trial :  2
+            Time :  173.96398544311523
+            Vally :  [246, 248, 255, 264, 287, 301, 330, 371, 382, 383]
+            Avg_evaluation :  483.62
+Done for :44/135
+            Trial :  3
+            Time :  121.26102066040039
+            Vally :  [233, 251, 253, 265, 271, 272, 283, 284, 291, 297]
+            Avg_evaluation :  447.68
+Done for :45/135
+     Epsilon_Decay :  0.985
+            Trial :  1
+            Time :  725.8254611492157
+            Vally :  [542, 755, 757, 802, 946]
+            Avg_evaluation :  262.67
+Done for :46/135
+            Trial :  2
+            Time :  656.5159764289856
+            Vally :  [413, 416, 422, 683, 854, 936, 945]
+            Avg_evaluation :  151.69
+Done for :47/135
+            Trial :  3
+            Time :  138.17100071907043
+            Vally :  [220, 234, 237, 240, 257, 258, 270, 271, 272, 273]
+            Avg_evaluation :  483.63
+Done for :48/135
+     Epsilon_Decay :  0.99
+            Trial :  1
+            Time :  829.596116065979
+            Vally :  [375, 411, 428, 433, 458, 728, 888, 899]
+            Avg_evaluation :  189.9
+Done for :49/135
+            Trial :  2
+            Time :  193.50433778762817
+            Vally :  [248, 255, 257, 263, 266, 269, 270, 275, 345, 406]
+            Avg_evaluation :  282.8
+Done for :50/135
+            Trial :  3
+            Time :  746.8230576515198
+            Vally :  [315, 460, 874, 888, 962, 989, 991]
+            Avg_evaluation :  161.59
+Done for :51/135
+     Epsilon_Decay :  0.995
+            Trial :  1
+            Time :  448.814603805542
+            Vally :  [328, 489, 561, 581, 613, 627, 649, 657, 666, 679]
+            Avg_evaluation :  382.42
+Done for :52/135
+            Trial :  2
+            Time :  776.0749635696411
+            Vally :  [223, 368, 784, 832, 845, 989]
+            Avg_evaluation :  277.96
+Done for :53/135
+            Trial :  3
+            Time :  461.75575733184814
+            Vally :  [330, 407, 480, 550, 557, 562, 564, 627, 628, 629]
+            Avg_evaluation :  388.7
+Done for :54/135
+Done for gamma :  0.85
+
+Gamma :  0.9
+     Epsilon_Decay :  0.5
+            Trial :  1
+            Time :  207.49179553985596
+            Vally :  []
+            Avg_evaluation :  107.35
+Done for :55/135
+
+            Trial :  2
+            Time :  243.91317319869995
+            Vally :  [381, 506, 526, 529, 534, 542, 543, 544, 545, 546]
+            Avg_evaluation :  499.0
+Done for :56/135
+            Trial :  3
+            Time :  320.56977701187134
+            Vally :  [991]
+            Avg_evaluation :  165.68
+Done for :57/135
+     Epsilon_Decay :  0.7
+            Trial :  1
+            Time :  105.06221652030945
+            Vally :  []
+            Avg_evaluation :  59.1
+Done for :58/135
+            Trial :  2
+            Time :  129.2839982509613
+            Vally :  []
+            Avg_evaluation :  31.5
+Done for :59/135
+            Trial :  3
+            Time :  161.93837809562683
+            Vally :  [863, 932, 991]
+            Avg_evaluation :  118.34
+Done for :60/135
+     Epsilon_Decay :  0.8
+            Trial :  1
+            Time :  199.6062090396881
+            Vally :  [273, 275, 276, 326, 346, 359, 364, 382, 401, 402]
+            Avg_evaluation :  451.02
+Done for :61/135
+            Trial :  2
+            Time :  119.41801428794861
+            Vally :  [206, 209, 211, 212, 218, 219, 220, 221, 222, 223]
+            Avg_evaluation :  499.0
+Done for :62/135
+            Trial :  3
+            Time :  432.323499917984
+            Vally :  [669, 670, 726, 727, 728, 729, 774, 775, 776, 778]
+            Avg_evaluation :  453.18
+Done for :63/135
+     Epsilon_Decay :  0.9
+            Trial :  1
+            Time :  266.601345539093
+            Vally :  []
+            Avg_evaluation :  109.71
+Done for :64/135
+            Trial :  2
+            Time :  436.4444069862366
+            Vally :  [491, 615, 628, 631, 634, 638, 641, 648, 673, 674]
+            Avg_evaluation :  424.97
+Done for :65/135
+            Trial :  3
+            Time :  227.35103464126587
+            Vally :  [267, 320, 327, 328, 330, 331, 332, 333, 340, 342]
+            Avg_evaluation :  494.12
+Done for :66/135
+     Epsilon_Decay :  0.95
+            Trial :  1
+            Time :  99.48001790046692
+            Vally :  [182, 187, 190, 197, 220, 221, 251, 291, 293, 298]
+            Avg_evaluation :  266.46
+Done for :67/135
+            Trial :  2
+            Time :  681.1868648529053
+            Vally :  [626, 628, 630, 632, 721, 723, 776, 781]
+            Avg_evaluation :  147.29
+Done for :68/135
+            Trial :  3
+            Time :  253.36762022972107
+            Vally :  []
+            Avg_evaluation :  153.96
+Done for :69/135
+     Epsilon_Decay :  0.98
+            Trial :  1
+            Time :  118.0779139995575
+            Vally :  [200, 201, 202, 209, 213, 223, 226, 227, 229, 243]
+            Avg_evaluation :  468.95
+Done for :70/135
+            Trial :  2
+            Time :  309.5348184108734
+            Vally :  [467, 480, 487, 490, 506, 524, 525, 526, 548, 635]
+            Avg_evaluation :  377.36
+Done for :71/135
+            Trial :  3
+            Time :  737.1222441196442
+            Vally :  [322, 327, 335, 346, 357, 428, 464, 563]
+            Avg_evaluation :  118.01
+Done for :72/135
+     Epsilon_Decay :  0.985
+            Trial :  1
+            Time :  577.2543432712555
+            Vally :  [328, 462, 500, 509, 511, 536, 716, 718, 722, 730]
+            Avg_evaluation :  254.95
+Done for :73/135
+            Trial :  2
+            Time :  160.84115958213806
+            Vally :  [184, 189, 215, 224, 226, 245, 265, 267, 279, 280]
+            Avg_evaluation :  406.45
+Done for :74/135
+            Trial :  3
+            Time :  348.0749442577362
+            Vally :  [394, 448, 452, 468, 473, 515, 516, 517, 521, 533]
+            Avg_evaluation :  370.62
+Done for :75/135
+     Epsilon_Decay :  0.99
+            Trial :  1
+            Time :  233.48337984085083
+            Vally :  [263, 276, 278, 282, 283, 285, 287, 301, 384, 395]
+            Avg_evaluation :  460.37
+Done for :76/135
+            Trial :  2
+            Time :  250.7619113922119
+            Vally :  [292, 326, 365, 377, 378, 383, 385, 393, 397, 422]
+            Avg_evaluation :  438.61
+Done for :77/135
+            Trial :  3
+            Time :  427.53422951698303
+            Vally :  [271, 321, 327, 332, 336, 363, 371, 391, 394, 593]
+            Avg_evaluation :  455.41
+Done for :78/135
+     Epsilon_Decay :  0.995
+            Trial :  1
+            Time :  270.0093376636505
+            Vally :  [276, 279, 281, 283, 353, 388, 401, 458, 459, 462]
+            Avg_evaluation :  499.0
+Done for :79/135
+            Trial :  2
+            Time :  194.4366581439972
+            Vally :  [321, 322, 323, 342, 346, 349, 351, 352, 353, 355]
+            Avg_evaluation :  475.01
+Done for :80/135
+            Trial :  3
+            Time :  219.96379113197327
+            Vally :  [265, 306, 320, 322, 323, 328, 334, 349, 350, 351]
+            Avg_evaluation :  476.94
+Done for :81/135
+Done for gamma :  0.9
+
+Gamma :  0.95
+     Epsilon_Decay :  0.5
+            Trial :  1
+            Time :  162.44627737998962
+            Vally :  [367, 395, 400, 401, 402, 412, 413, 414, 415, 416]
+            Avg_evaluation :  499.0
+Done for :82/135
+
+            Trial :  2
+            Time :  221.46675658226013
+            Vally :  [161, 253, 277, 279, 285, 287, 298, 303, 304, 305]
+            Avg_evaluation :  471.37
+Done for :83/135
+            Trial :  3
+            Time :  272.87622833251953
+            Vally :  []
+            Avg_evaluation :  207.78
+Done for :84/135
+     Epsilon_Decay :  0.7
+            Trial :  1
+            Time :  353.33474135398865
+            Vally :  [296, 523, 526, 528, 531, 532, 533, 534, 535, 536]
+            Avg_evaluation :  499.0
+Done for :85/135
+            Trial :  2
+            Time :  408.8506178855896
+            Vally :  [711, 712, 964, 966]
+            Avg_evaluation :  208.7
+Done for :86/135
+            Trial :  3
+            Time :  186.06990098953247
+            Vally :  [467, 469, 470, 471, 473, 480, 487, 488, 489, 490]
+            Avg_evaluation :  499.0
+Done for :87/135
+     Epsilon_Decay :  0.8
+            Trial :  1
+            Time :  302.639976978302
+            Vally :  [174, 408, 417, 431, 458, 468, 472, 485, 521, 534]
+            Avg_evaluation :  315.63
+Done for :88/135
+            Trial :  2
+            Time :  398.9993541240692
+            Vally :  [229, 480, 484, 496, 509, 532, 556, 589, 632, 693]
+            Avg_evaluation :  354.37
+Done for :89/135
+            Trial :  3
+            Time :  123.94960379600525
+            Vally :  [109, 176, 177, 188, 190, 191, 192, 195, 200, 201]
+            Avg_evaluation :  413.08
+Done for :90/135
+     Epsilon_Decay :  0.9
+            Trial :  1
+            Time :  661.2241978645325
+            Vally :  []
+            Avg_evaluation :  222.98
+Done for :91/135
+            Trial :  2
+            Time :  694.7313580513
+            Vally :  [399, 409, 804, 805, 835, 841, 965, 976, 997]
+            Avg_evaluation :  315.31
+Done for :92/135
+            Trial :  3
+            Time :  681.6569516658783
+            Vally :  [307, 364, 379, 380, 410]
+            Avg_evaluation :  140.78
+Done for :93/135
+     Epsilon_Decay :  0.95
+            Trial :  1
+            Time :  104.28452610969543
+            Vally :  [124, 148, 177, 184, 185, 200, 202, 210, 215, 223]
+            Avg_evaluation :  301.34
+Done for :94/135
+            Trial :  2
+            Time :  1168.830381155014
+            Vally :  [208, 260, 311, 622, 639, 642, 940, 979, 987]
+            Avg_evaluation :  249.29
+Done for :95/135
+            Trial :  3
+            Time :  182.72697615623474
+            Vally :  [261, 272, 295, 311, 317, 318, 325, 328, 330, 333]
+            Avg_evaluation :  440.56
+Done for :96/135
+     Epsilon_Decay :  0.98
+            Trial :  1
+            Time :  149.2432758808136
+            Vally :  [251, 259, 271, 273, 279, 280, 283, 289, 293, 295]
+            Avg_evaluation :  460.33
+Done for :97/135
+            Trial :  2
+            Time :  131.52820944786072
+            Vally :  [181, 191, 192, 194, 204, 209, 218, 220, 227, 230]
+            Avg_evaluation :  388.7
+Done for :98/135
+            Trial :  3
+            Time :  443.96872901916504
+            Vally :  [646, 666, 668, 669, 685, 756, 757, 765, 771, 778]
+            Avg_evaluation :  459.65
+Done for :99/135
+     Epsilon_Decay :  0.985
+            Trial :  1
+            Time :  929.0679047107697
+            Vally :  [258, 883]
+            Avg_evaluation :  137.89
+Done for :100/135
+            Trial :  2
+            Time :  784.8823881149292
+            Vally :  []
+            Avg_evaluation :  113.72
+Done for :101/135
+            Trial :  3
+            Time :  183.4858500957489
+            Vally :  [253, 269, 272, 306, 307, 308, 310, 311, 323, 324]
+            Avg_evaluation :  330.16
+Done for :102/135
+     Epsilon_Decay :  0.99
+            Trial :  1
+            Time :  149.76168203353882
+            Vally :  [215, 216, 234, 236, 238, 240, 241, 242, 243, 244]
+            Avg_evaluation :  499.0
+Done for :103/135
+            Trial :  2
+            Time :  411.4396233558655
+            Vally :  [406, 419, 424, 448, 518, 528, 529, 530, 533, 535]
+            Avg_evaluation :  457.43
+Done for :104/135
+            Trial :  3
+            Time :  174.406240940094
+            Vally :  [222, 272, 274, 276, 277, 278, 279, 280, 281, 282]
+            Avg_evaluation :  498.32
+Done for :105/135
+     Epsilon_Decay :  0.995
+            Trial :  1
+            Time :  207.99518871307373
+            Vally :  [226, 241, 255, 256, 257, 271, 287, 298, 300, 308]
+            Avg_evaluation :  496.04
+Done for :106/135
+            Trial :  2
+            Time :  253.69283843040466
+            Vally :  [232, 260, 268, 271, 282, 292, 300, 312, 327, 331]
+            Avg_evaluation :  466.07
+Done for :107/135
+            Trial :  3
+            Time :  148.91938304901123
+            Vally :  [215, 226, 227, 228, 258, 259, 260, 261, 264, 265]
+            Avg_evaluation :  499.0
+Done for :108/135
+Done for gamma :  0.95
+
+Gamma :  1
+     Epsilon_Decay :  0.5
+
+            Trial :  1
+            Time :  125.77303004264832
+            Vally :  []
+            Avg_evaluation :  9.0
+Done for :109/135
+            Trial :  2
+            Time :  155.89753985404968
+            Vally :  []
+            Avg_evaluation :  8.41
+Done for :110/135
+            Trial :  3
+            Time :  206.16239643096924
+            Vally :  []
+            Avg_evaluation :  67.81
+Done for :111/135
+     Epsilon_Decay :  0.7
+            Trial :  1
+            Time :  349.4233729839325
+            Vally :  []
+            Avg_evaluation :  33.15
+Done for :112/135
+            Trial :  2
+            Time :  254.98570561408997
+            Vally :  [863, 882, 897, 906, 917, 927, 928, 952, 964, 965]
+            Avg_evaluation :  484.94
+Done for :113/135
+            Trial :  3
+            Time :  163.28078246116638
+            Vally :  []
+            Avg_evaluation :  8.43
+Done for :114/135
+     Epsilon_Decay :  0.8
+            Trial :  1
+            Time :  944.7496337890625
+            Vally :  [358, 693, 952, 962]
+            Avg_evaluation :  220.44
+Done for :115/135
+            Trial :  2
+            Time :  840.8748371601105
+            Vally :  [372, 688, 689, 711, 718, 739, 768, 979]
+            Avg_evaluation :  197.9
+Done for :116/135
+            Trial :  3
+            Time :  149.73419666290283
+            Vally :  []
+            Avg_evaluation :  9.92
+Done for :117/135
+     Epsilon_Decay :  0.9
+            Trial :  1
+            Time :  191.5701982975006
+            Vally :  [408, 413, 415, 416, 417, 418, 420, 421, 422, 423]
+            Avg_evaluation :  499.0
+Done for :118/135
+            Trial :  2
+            Time :  168.88290858268738
+            Vally :  []
+            Avg_evaluation :  39.89
+Done for :119/135
+            Trial :  3
+            Time :  857.5619342327118
+            Vally :  []
+            Avg_evaluation :  120.8
+Done for :120/135
+     Epsilon_Decay :  0.95
+            Trial :  1
+            Time :  232.68766236305237
+            Vally :  [574, 575, 576, 578, 580, 581, 582, 584, 586, 606]
+            Avg_evaluation :  479.7
+Done for :121/135
+            Trial :  2
+            Time :  195.9736466407776
+            Vally :  []
+            Avg_evaluation :  59.58
+Done for :122/135
+            Trial :  3
+            Time :  590.4612667560577
+            Vally :  []
+            Avg_evaluation :  136.16
+Done for :123/135
+     Epsilon_Decay :  0.98
+            Trial :  1
+            Time :  215.91080617904663
+            Vally :  [590, 598, 599, 612, 615, 616, 617, 623, 625, 626]
+            Avg_evaluation :  485.5
+Done for :124/135
+            Trial :  2
+            Time :  474.87502670288086
+            Vally :  [538, 586, 597, 606, 607, 608, 753, 820, 882, 884]
+            Avg_evaluation :  425.37
+Done for :125/135
+            Trial :  3
+            Time :  324.3124167919159
+            Vally :  []
+            Avg_evaluation :  169.69
+Done for :126/135
+     Epsilon_Decay :  0.985
+            Trial :  1
+            Time :  359.61717462539673
+            Vally :  [741, 771, 774, 775, 785, 888, 899]
+            Avg_evaluation :  135.9
+Done for :127/135
+            Trial :  2
+            Time :  171.54285764694214
+            Vally :  []
+            Avg_evaluation :  42.5
+Done for :128/135
+            Trial :  3
+            Time :  273.5678389072418
+            Vally :  []
+            Avg_evaluation :  155.4
+Done for :129/135
+     Epsilon_Decay :  0.99
+            Trial :  1
+            Time :  610.092435836792
+            Vally :  [801, 921, 970, 982, 987, 990]
+            Avg_evaluation :  413.93
+Done for :130/135
+            Trial :  2
+            Time :  142.58010578155518
+            Vally :  []
+            Avg_evaluation :  8.28
+Done for :131/135
+            Trial :  3
+            Time :  257.28131318092346
+            Vally :  []
+            Avg_evaluation :  86.02
+Done for :132/135
+     Epsilon_Decay :  0.995
+            Trial :  1
+            Time :  182.53626418113708
+            Vally :  []
+            Avg_evaluation :  20.12
+Done for :133/135
+            Trial :  2
+            Time :  183.44538760185242
+            Vally :  []
+            Avg_evaluation :  8.24
+Done for :134/135
+            Trial :  3
+            Time :  655.6491532325745
+            Vally :  []
+            Avg_evaluation :  138.98
+Done for :135/135
+Done for gamma :  1
+
