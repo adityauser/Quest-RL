@@ -29,4 +29,4 @@ I did all this thing in Summer'18, since then I'm a big fan of Reinforcement Lea
 
 
 
-My code is inpired from  <a href="https://github.com/keon/deep-q-learning">keon_deep-q-learning</a>
+My code is inspired from  <a href="https://github.com/keon/deep-q-learning">keon_deep-q-learning</a>
