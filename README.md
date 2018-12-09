@@ -24,6 +24,9 @@ Go through each Phase : <br>
 <a href="https://github.com/adityauser/Quest-RL/tree/master/Phase-3">Phase 3</a><br>
 
 
+## Miscellaneous:
+Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft%20Q%20Learning">Soft Q-Learning</a>
+
 ## Personal Attachment : 
 I did all this thing in Summer'18, since then I'm a big fan of Reinforcement Learning. I love analyzing the result, finding patterns and building possible explanations.
 
