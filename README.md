@@ -19,7 +19,7 @@ Each setting is tested three times
 Running each phase took 13hours on my i5 7th Gen laptop
 
 Go through each Phase : <br>
-<a href="https://github.com/adityauser/Quest-RL/tree/master/Phase1/Phase1.ipynb">Phase 1</a><br>
+<a href="https://github.com/adityauser/Quest-RL/tree/master/Phase1">Phase 1</a><br>
 <a href="https://github.com/adityauser/Quest-RL/tree/master/Phase-2">Phase 2</a><br>
 <a href="https://github.com/adityauser/Quest-RL/tree/master/Phase-3">Phase 3</a><br>
 
@@ -29,4 +29,4 @@ I did all this thing in Summer'18, since then I'm a big fan of Reinforcement Lea
 
 
 
-My code is inpired from  <a href="https://github.com/keon/deep-q-learning">keon_deep-q-learning</a>
+My code is inspired from  <a href="https://github.com/keon/deep-q-learning">keon_deep-q-learning</a>
