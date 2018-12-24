@@ -6,7 +6,8 @@ With just a few changes in hyperparameters, the convergence of Q-networks dramat
 The experiment shows how strange Deep Reinforcement Learning is
 
 ## Elements
-I have used Q-Learning with Prioritized Replay and Duel Q Networks(DDQN)
+I have used Q-Learning with Prioritized Replay and Duel Q Networks(DDQN) <br>
+**I haven't used the following methods in the algorithm which I have implemented in the miscellaneous section.**<br>
 The agent will run on different hyperparameter setting for gamma and epsilon
 For each hyperparameter setting, I have run experiment 3 times
 I will be using OpenAI gym CartPole-v1 environment
@@ -25,7 +26,8 @@ Go through each Phase : <br>
 
 
 ## Miscellaneous:
-Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft%20Q%20Learning">Soft Q-Learning</a>
+* Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft%2**0Q%20Learning">Soft Q-Learning</a>
+* Implementation of **Categorical Distributional DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft%2**0Q%20Learning">C51</a>
 
 ## Personal Attachment : 
 I did all this thing in Summer'18, since then I'm a big fan of Reinforcement Learning. I love analyzing the result, finding patterns and building possible explanations.
