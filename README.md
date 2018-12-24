@@ -26,8 +26,8 @@ Go through each Phase : <br>
 
 
 ## Miscellaneous:
-* Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft%2**0Q%20Learning">Soft Q-Learning</a>
-* Implementation of **Categorical Distributional DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft%2**0Q%20Learning">C51</a>
+* Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft Q Learning">Soft Q-Learning</a>
+* Implementation of **Categorical Distributional DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Distributional-RL">C51</a>
 
 ## Personal Attachment : 
 I did all this thing in Summer'18, since then I'm a big fan of Reinforcement Learning. I love analyzing the result, finding patterns and building possible explanations.
