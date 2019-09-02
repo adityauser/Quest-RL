@@ -26,7 +26,7 @@ Go through each Phase : <br>
 
 ## Distributional RL
 * Implementation of **Categorical Distributional DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Distributional-RL">C51</a>
-* Implementation of **Quantile Regression DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Distributional-RL">QR-DQN</a>
+* Implementation of **Quantile Regression DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Distributional-RL">QR-DQN</a><br>
 I have written a blog on Distributional RL you can [look](https://adityauser.github.io/blog/2019/06/23/C51.html) into it for more insight.
 
 ## Miscellaneous
