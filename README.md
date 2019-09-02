@@ -24,12 +24,16 @@ Go through each Phase : <br>
 <a href="https://github.com/adityauser/Quest-RL/tree/master/Phase-2">Phase 2</a><br>
 <a href="https://github.com/adityauser/Quest-RL/tree/master/Phase-3">Phase 3</a><br>
 
-
-## Miscellaneous:
-* Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft Q Learning">Soft Q-Learning</a>
+## Distributional RL
 * Implementation of **Categorical Distributional DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Distributional-RL">C51</a>
+* Implementation of **Quantile Regression DQN** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Distributional-RL">QR-DQN</a>
+I have written a blog on Distributional RL you can [look](https://adityauser.github.io/blog/2019/06/23/C51.html) into it for more insight.
 
-## Personal Attachment : 
+## Miscellaneous
+* Small scale implementation of **Maximum Entropy Deep Reinforcement Learning** : <a href="https://github.com/adityauser/Quest-RL/tree/master/Soft Q Learning">Soft Q-Learning</a>
+
+
+## Personal Attachment
 I did all this thing in Summer'18, since then I'm a big fan of Reinforcement Learning. I love analyzing the result, finding patterns and building possible explanations.
 
 
